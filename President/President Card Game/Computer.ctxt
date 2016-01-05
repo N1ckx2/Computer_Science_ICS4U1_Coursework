@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=h\ pos
+comment0.target=Computer(Deck,\ int)
+comment1.params=n
+comment1.target=void\ num(int)
+comment2.params=old
+comment2.target=Card[]\ choose(Card[])
+numComments=3
