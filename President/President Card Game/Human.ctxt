@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=h\ n\ pos\ g
-comment0.target=Human(Deck,\ java.lang.String,\ int,\ GUI)
-comment1.params=old\ nue
-comment1.target=Card[]\ validate(Card[],\ Card[])
-comment2.params=old
-comment2.target=Card[]\ choose(Card[])
-numComments=3
